@@ -1,0 +1,56 @@
+*{
+margin: 0px;
+font-family: Georgia;
+}
+
+article{width: 80%;}
+.centro{
+width: 64%;
+height: 56%;
+}
+header{
+width: 100%;
+height: 20%;
+background: url(img/cabeza.png) no-repeat center white;
+}
+
+div.linea{
+color: gray;
+font-family: Arial;
+width: 80%;
+height: 3%;
+background: url(img/Pleca.png) ;
+}
+div.menu{
+padding: 1%;
+width: 80%;
+height: auto;
+color: gray;
+text-align: center;
+padding-bottom: 5%;
+}
+table{width:100%;height: 100%;}
+td.img{
+}
+td.texto{
+text-align: center;
+}
+h1{
+color: #ABBD59;
+font-size: 28px;
+font-style: italic;
+}
+h2{
+color: #ABBD59;
+font-size: 20px;
+font-style: italic;
+}
+p{
+	color: gray;
+	margin-left: 30%;
+	font-size: 12px;
+	text-align: justify;
+}
+footer{
+	width: 80%;
+}
